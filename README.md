@@ -33,3 +33,10 @@ Consideraciones Adicionales
 Aplicaciones Externas adicionales
 	- Motor de base de datos PostgressSQL
 	- Broker de mensajeria Kafka
+
+Se anexa proyecto SoaoUI para ejecución.
+DemoBVC-soapui-project.xml
+
+VIDEO
+======================================
+https://youtu.be/UlCwbec0EdI
